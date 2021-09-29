@@ -1,2 +1,4 @@
-package br.com.zup;public class Cardapio {
+package br.com.zup;
+
+public class Cardapio {
 }
