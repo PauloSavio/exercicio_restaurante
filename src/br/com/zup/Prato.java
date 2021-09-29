@@ -40,9 +40,9 @@ public class Prato {
     @Override
     public String toString() {
         StringBuilder retorno = new StringBuilder();
-        retorno.append("O nome do prato é: "+nome);
-        retorno.append("O valor do prato é: "+ valor);
-        retorno.append("Os ingredientes são: "+ ingredientes);
+        retorno.append("\n O nome do prato é: "+nome);
+        retorno.append("\n O valor do prato é: "+ valor);
+        retorno.append("\n Os ingredientes são: "+ ingredientes);
         return retorno.toString();
     }
 }
